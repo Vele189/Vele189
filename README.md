@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer)`**
 
-I am a founder and part of a team, building web applications that solve real-world problems with a creative touch. My passion lies in addressing real-life challenges, learning new skills, and adding unique creativity to every project I undertake. My vision is to bring my projects to life, build trust with my audience and users, and consistently meet their needs.
+Founder working within a small team to design and build web applications that prioritize structure, clarity, and real-world usability.Focused on turning ambiguous problems into well-defined systems from early concepts to working software — with an emphasis on clean architecture and long-term maintainability.Actively developing skills across the stack while building products that earn trust by being reliable, explainable, and purposeful.
 
 
 
@@ -31,7 +31,7 @@ I am a founder and part of a team, building web applications that solve real-wor
 
 ### Latest Projects 
 
-
+#### https://github.com/Vele189/Continuum.git
 
 
 #
