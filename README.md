@@ -1,5 +1,7 @@
 # Vele Ndamulelo
 
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/8603ca5a-0ae5-4b2b-a8cc-2ec3cf46139e" />
+
 
 Founder working within a small team to design and build web applications that prioritize structure, clarity, and real-world usability. Focused on turning ambiguous problems into well-defined systems from early concepts to working software with an emphasis on clean architecture and long-term maintainability. Actively developing skills across the stack while building products that earn trust by being reliable, explainable, and purposeful.
 
