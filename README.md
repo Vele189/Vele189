@@ -1,4 +1,5 @@
-# Vele Ndamulelo  <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/8603ca5a-0ae5-4b2b-a8cc-2ec3cf46139e" />
+# Vele Ndamulelo  
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/8603ca5a-0ae5-4b2b-a8cc-2ec3cf46139e" />
 
 
 
