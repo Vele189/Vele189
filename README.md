@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer)`**
 
-Founder working within a small team to design and build web applications that prioritize structure, clarity, and real-world usability.Focused on turning ambiguous problems into well-defined systems from early concepts to working software — with an emphasis on clean architecture and long-term maintainability.Actively developing skills across the stack while building products that earn trust by being reliable, explainable, and purposeful.
+Founder working within a small team to design and build web applications that prioritize structure, clarity, and real-world usability. Focused on turning ambiguous problems into well-defined systems from early concepts to working software with an emphasis on clean architecture and long-term maintainability.Actively developing skills across the stack while building products that earn trust by being reliable, explainable, and purposeful.
 
 
 
@@ -33,22 +33,4 @@ Founder working within a small team to design and build web applications that pr
 
 #### https://github.com/Vele189/Continuum.git
 
-
-#
-
-### 📊 Stats
-
-
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
-
-#
-<!--
-<details>
- <summary><h3> Vele's Coding Journey</h3></summary>
- My coding journey began with inspiration from the movie The Social Network. The concept of coding fascinated me—it seemed so cool that I decided to pursue a degree in computer science. Like many others, I started with web development. At the time, I had no grand motives; I was simply learning the ropes, with hopes of landing a job someday.
-In 2024, I made a significant leap by dedicating my entire holiday to coding projects. It was a tough choice, sacrificing that time, but it was worth it to grow my skills and take steps toward my dream.
-That dream is to build something truly meaningful—something that matters to people. I want to create a legacy that not only impacts the world but also supports my family and those I care about.
-Currently, I’m working on projects with my team and diving into extensive research to refine my ideas. My focus is clear: to build a lasting legacy that brings value and solves real problems.
--->
 [website]: https://velendamulelo.vercel.app/
