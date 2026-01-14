@@ -1,6 +1,5 @@
 # Vele Ndamulelo
 
-**`Digital Craftsman (Developer)`**
 
 Founder working within a small team to design and build web applications that prioritize structure, clarity, and real-world usability. Focused on turning ambiguous problems into well-defined systems from early concepts to working software with an emphasis on clean architecture and long-term maintainability. Actively developing skills across the stack while building products that earn trust by being reliable, explainable, and purposeful.
 
