@@ -28,11 +28,17 @@ Founder working within a small team to design and build web applications that pr
 <br />
 
 #
+---
+
+
 
 ### Latest Projects 
 
 #### https://github.com/Vele189/Continuum.git
-<img width="1196" height="673" alt="image" src="https://github.com/user-attachments/assets/5d12bb51-cde1-4896-85e7-8eba7c4918f5" />
+<img width="596" height="373" alt="image" src="https://github.com/user-attachments/assets/5d12bb51-cde1-4896-85e7-8eba7c4918f5" />
+
+
+---
 
 
 ### website
