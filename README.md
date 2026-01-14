@@ -1,4 +1,4 @@
-# 🏄‍♂️ Vele Ndamulelo
+# Vele Ndamulelo
 
 **`Digital Craftsman (Developer)`**
 
@@ -8,7 +8,7 @@ I am a founder and part of a team, building web applications that solve real-wor
 
 ---
 
-### 🧰 Languages and Tools
+### Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
@@ -29,7 +29,8 @@ I am a founder and part of a team, building web applications that solve real-wor
 
 #
 
-### 📺 Latest Projects 
+### Latest Projects 
+
 
 
 
@@ -44,11 +45,10 @@ I am a founder and part of a team, building web applications that solve real-wor
 #
 <!--
 <details>
- <summary><h3>👨‍💻 Vele's Coding Journey</h3></summary>
+ <summary><h3> Vele's Coding Journey</h3></summary>
  My coding journey began with inspiration from the movie The Social Network. The concept of coding fascinated me—it seemed so cool that I decided to pursue a degree in computer science. Like many others, I started with web development. At the time, I had no grand motives; I was simply learning the ropes, with hopes of landing a job someday.
 In 2024, I made a significant leap by dedicating my entire holiday to coding projects. It was a tough choice, sacrificing that time, but it was worth it to grow my skills and take steps toward my dream.
 That dream is to build something truly meaningful—something that matters to people. I want to create a legacy that not only impacts the world but also supports my family and those I care about.
 Currently, I’m working on projects with my team and diving into extensive research to refine my ideas. My focus is clear: to build a lasting legacy that brings value and solves real problems.
 -->
-[website]: https://fkcodes.com
-[youtube]: https://youtube.com/fknight
+[website]: https://velendamulelo.vercel.app/
